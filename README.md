@@ -14,7 +14,7 @@
 <p align="center"><strong>Course No</strong>: CSE 486 <strong>Sec</strong><strong>:</strong> 01</p>
 <p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (SAS3)</p>
 <p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
-<p align="center"><strong>Name</strong>: Ihfaz Tahmid Morshed<strong>:</strong> ABC DEF</p>
+<p align="center"><strong>Name</strong><strong>:</strong> Ihfaz Tahmid Morshed</p>
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1530879</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:abc.def@northsouth.edu">ihfaz.morshed@northsouth.edu</a></p>
 
